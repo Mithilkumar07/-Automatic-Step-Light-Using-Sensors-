@@ -1,8 +1,4 @@
-/*
-   Please Visit "Tronics Lk" YouTube Channel for More Tutorials
-   Channel Link 👇
-   https://www.youtube.com/channel/UCYJa3gs8q49-N3TLm-7ygUw?sub_confirmation=1
-*/
+
 
 int ir_Sensor = 2; // connect ir sensor module to Arduino pin 2
 int ir_Sensor2 = 4; // connect ir sensor module to Arduino pin 2
